@@ -1,6 +1,6 @@
-Android Kotlin Hello World Project
+Android Kotlin Fresco Loading Image Project
 ===========================
 
-Run this demo from your IDE.
+使用Fresco库来载入图片，它的特点是可以当图片不显示时，可以释放内存。
 
-注：无法通过命令行`./gradlew installDebug`部署
+Run `MainActivity.kt` from your IDE.
