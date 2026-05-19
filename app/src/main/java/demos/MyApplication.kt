@@ -1,4 +1,4 @@
-package demos
+package demos.android.kotlin.fresco.load.image.demo
 
 import android.app.Application
 import com.facebook.drawee.backends.pipeline.Fresco
